@@ -8,5 +8,6 @@ The purpose of this project was to create a summary DataFrame for V. Isualize, t
 
 ![](https://github.com/josem279/PyBer_Analysis/blob/master/Resources/Total_Fare_by_City_Type.png)
 
+![](https://github.com/josem279/PyBer_Analysis/blob/master/Resources/Pyber_Summary.PNG)
 
 ## Summary
